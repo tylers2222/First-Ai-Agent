@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # First-Ai-Agent
-=======
+
 # AI Agent - Email Director
 
 An intelligent email management system built with LangChain and ChatGPT that automates reading, classifying, and responding to emails in your personal Gmail inbox. The agent integrates with Slack for human-in-the-loop approval of drafted responses.
